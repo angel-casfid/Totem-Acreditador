@@ -1,26 +1,23 @@
-# Tótem - Archivos 3D 📁
+🏗️ Tótem - Archivos 3D 📁
+¡Bienvenido al repositorio oficial de Tótem! 🎉
+Este espacio está dedicado exclusivamente al almacenamiento y gestión de diferentes soportes y archivos 3D. Aquí encontrarás modelos organizados de manera eficiente para su uso en proyectos relacionados con el Tótem acreditador.
 
-¡Bienvenido al repositorio oficial de **Tótem**! 🎉  
-Este espacio está dedicado exclusivamente al almacenamiento y gestión de diferentes **soportes y archivos 3D**. Aquí encontrarás modelos cuidadosamente organizados para su uso en proyectos relacionados con el Tótem acreditador.
+📂 Estructura del Repositorio
+📁 /stl – Modelos pendientes de procesamiento 🖨️
 
----
+Contiene archivos en formato .stl, los modelos 3D aún deben pasar por un slicer para generar el G-code y ser impresos.
 
-## 📂 Estructura del Repositorio
+📁 /gcode – Archivos listos para impresión ⚙️
 
-La organización de este repositorio sigue una estructura lógica para facilitar la búsqueda y el acceso a los archivos:
+Incluye los archivos .gcode ya procesados por el slicer, con instrucciones específicas para la impresora 3D.
 
-/stl: Contiene los modelos 3D en formato .stl, que es ampliamente utilizado para la impresión 3D debido a su compatibilidad con la mayoría de los slicers y software de modelado.
+📁 /fcstd – Archivos fuente editables 🎨
 
-/gcode: Archivos generados a partir de los modelos 3D, listos para ser enviados a la impresora 3D. Estos archivos contienen instrucciones específicas para la impresora, como temperatura, velocidad y trayectorias de movimiento.
+Modelos de diseño en FreeCAD (.fcstd). Son la base editable antes de convertirlos en STL o G-code.
 
-/fcstd: Archivos de diseño creados en FreeCAD (.fcstd). Son los archivos fuente de los modelos 3D, permitiendo su edición y modificación antes de exportarlos a otros formatos como STL o G-code.
+🚀 Propósito del Repositorio
+✅ Centralizar todos los modelos y soportes relacionados con el Tótem en un solo lugar.
+✅ Facilitar el acceso a los archivos en sus diferentes etapas (diseño, preparación y listo para impresión).
+✅ Servir como referencia confiable para desarrolladores y diseñadores.
 
----
-
-## 🚀 Propósito del Repositorio
-
-Este repositorio tiene como objetivo:
-
-1. Centralizar los modelos y soportes relacionados con el **Tótem**.
-2. Garantizar un fácil acceso a los archivos para su personalización y utilización.
-3. Servir como un punto de referencia confiable para el desarrollo de proyectos.
+💡 Si necesitas convertir un STL a G-code, no olvides pasarlo por un slicer antes de imprimir.
