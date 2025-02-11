@@ -1,17 +1,17 @@
 🏗️ Tótem - Archivos 3D 📁
-¡Bienvenido al repositorio oficial de Tótem! 🎉
-Este espacio está dedicado exclusivamente al almacenamiento y gestión de diferentes soportes y archivos 3D. Aquí encontrarás modelos organizados de manera eficiente para su uso en proyectos relacionados con el Tótem acreditador.
+
 
 📂 Estructura del Repositorio
-📁 /stl – Modelos pendientes de procesamiento 🖨️
+
+**/stl** – Modelos pendientes de procesamiento 🖨️
 
 Contiene archivos en formato .stl, los modelos 3D aún deben pasar por un slicer para generar el G-code y ser impresos.
 
-📁 /gcode – Archivos listos para impresión ⚙️
+**/gcode** – Archivos listos para impresión ⚙️
 
 Incluye los archivos .gcode ya procesados por el slicer, con instrucciones específicas para la impresora 3D.
 
-📁 /fcstd – Archivos fuente editables 🎨
+**/fcstd** – Archivos fuente editables 🎨
 
 Modelos de diseño en FreeCAD (.fcstd). Son la base editable antes de convertirlos en STL o G-code.
 
