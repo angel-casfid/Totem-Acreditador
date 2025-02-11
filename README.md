@@ -21,11 +21,3 @@ Este repositorio tiene como objetivo:
 1. Centralizar los modelos y soportes relacionados con el **Tótem**.
 2. Garantizar un fácil acceso a los archivos para su personalización y utilización.
 3. Servir como un punto de referencia confiable para el desarrollo de proyectos.
-
----
-
-## 🛠️ Cómo Usar los Archivos
-
-1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/tuusuario/Totem.git
